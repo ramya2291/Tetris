@@ -1,4 +1,8 @@
-# Tetris
-# Code for game tetris with simple C language
-# Enter (d to move down, l to move left, r to move right, a to rotate,s to hard drop,y to pause,q to quit) OR arrows to move up arrow to rotate space bar to harddrop
-# On clearing each line you earn 100pts.
+#         Tetris
+This is the Code for game tetris with simple C language
+
+This game resembles the original tetris game
+(arrows for the movement of tetromino,up arrow for rotation,space bar for hard drop,y to pause,q to quit the game)
+
+Enjoy the game!!
+
